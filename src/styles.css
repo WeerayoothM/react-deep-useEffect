@@ -1,0 +1,26 @@
+html {
+  font-size: 20px;
+}
+
+code {
+  font-size: 14px;
+  background-color: #e9e9e9;
+  padding: 2px 8px;
+  border-radius: 4px;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  background-color: #f9f9f9;
+}
+
+.nav .item {
+  padding: 8px 16px;
+  display: block;
+}
